@@ -49,7 +49,7 @@ const TrustedPartners = () => {
   };
 
   return (
-    <div className='bg-gradient-to-r -mt-70 md:z-10 from-[#B70AC1] via-[#292F43] to-[#292F43] py-10 text-center relative overflow-hidden'>
+    <div className='bg-gradient-to-r md:-mt-70 md:z-10 from-[#B70AC1] via-[#292F43] to-[#292F43] py-10 text-center relative overflow-hidden'>
       <div className='absolute inset-0 bg-gradient-to-tr from-purple-700/20 via-indigo-800/10 to-transparent animate-pulse' />
 
       <h2
